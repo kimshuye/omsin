@@ -39,8 +39,7 @@ function initFacebook(appId, lng) {
       version: 'v2.8'
     });
   };
-  //loadJavascript('facebook-jssdk', "//connect.facebook.net/" + (lng == 'th' ? 'th_TH' : 'en_US') + "/sdk.js");
-  loadJavascript('facebook-jssdk', "//connect.facebook.com/" + (lng == 'th' ? 'th_TH' : 'en_US') + "/sdk.js");
+  loadJavascript('facebook-jssdk', "//connect.facebook.net/" + (lng == 'th' ? 'th_TH' : 'en_US') + "/sdk.js");
 }
 function fbLoginSubmit(xhr) {
   var ds = xhr.responseText.toJSON();
