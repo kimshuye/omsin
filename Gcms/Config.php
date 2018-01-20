@@ -69,7 +69,7 @@ class Config extends \Kotchasan\Config
    *
    * @var string
    */
-  public $password_key = 'ayuajlojhg';
+  public $password_key = '1UtDzVI2QM';
   /**
    * ถ้ากำหนดเป็น true บัญชี Facebook จะเป็นบัญชีตัวอย่าง
    * ได้รับสถานะแอดมิน (สมาชิกใหม่) แต่อ่านได้อย่างเดียว
@@ -82,7 +82,7 @@ class Config extends \Kotchasan\Config
    *
    * @var string
    */
-  public $facebook_appId = '';
+  public $facebook_appId = '1508223865961181';
   /**
    * สกุลเงิน
    *
