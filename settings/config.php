@@ -5,7 +5,7 @@ return array(
   'web_description' => 'แอพพลิเคชั่น รายรับ-รายจ่าย ฟรี',
   'timezone' => 'Asia/Bangkok',
   /* ข้อมูล Mail Server สำหรับการขอรหัสผ่านใหม่ */
-  'noreply_email' => 'no-reply@domain.tld',
+  'noreply_email' => 'suntisuk.dev@gmail.com',
   'email_charset' => 'utf-8',
   'email_Host' => 'localhost',
   'email_Port' => 25,
@@ -17,5 +17,5 @@ return array(
   'email_Username' => '',
   'email_Password' => '',
   /* Facebook AppID หาได้จาก https://gcms.in.th/howto/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%82%E0%B8%AD_app_id_%E0%B8%88%E0%B8%B2%E0%B8%81_facebook.html */
-  'facebook_appId' => '',
+  'facebook_appId' => '1508223865961181',
 );
