@@ -130,7 +130,7 @@ class View extends \Gcms\View
       'value' => date('Y-m-d'),
     ));
     // comment
-    $fieldset->add('text', array(
+    $fieldset->add('textarea', array(
       'id' => 'write_comment',
       'itemClass' => 'item',
       'labelClass' => 'g-input icon-edit',
